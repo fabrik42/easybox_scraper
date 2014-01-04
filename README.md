@@ -1,7 +1,7 @@
 # Easybox Scraper
 
 This is a little ruby script to fetch interesting information from a Vodafone Easybox 904 LTE.
-I tested it with the firmware version AT904L-01.07.
+I tested it with the firmware version AT904L-03.07.
 
 ## Usage
 
